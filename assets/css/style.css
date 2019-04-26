@@ -1,0 +1,8 @@
+.login {
+	background: url('../img/loginpage.png');
+ 	background-repeat: repeat-y;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 92vh;
+	overflow: hidden;
+}
