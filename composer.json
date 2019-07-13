@@ -4,6 +4,6 @@
 		"mockery/mockery": ">=0.7.2"
 	},
 	"autoload": {
-		"classmap": [ "core", "tests/support/models" ]
+		"classmap": [ "core", "admin/proses" ]
 	}
 }
