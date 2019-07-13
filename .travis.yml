@@ -7,4 +7,4 @@ before_script:
   - curl -s https://getcomposer.org/installer | php
   - php composer.phar install --dev
 
-script: vendor/bin/phpunit tests/index.php
+script: vendor/bin/phpunit admin/index.php
